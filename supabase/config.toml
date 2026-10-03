@@ -1,0 +1,14 @@
+# Supabase Local & CI/CD Project Configuration
+project_id = "saptha-snpsu-portal"
+
+[api]
+enabled = true
+port = 54321
+schemas = ["public", "storage"]
+
+[db]
+port = 54322
+
+[storage]
+enabled = true
+file_size_limit = "5MiB"

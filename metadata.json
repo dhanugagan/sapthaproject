@@ -1,0 +1,6 @@
+{
+  "name": "SAPTHA",
+  "description": "SAPTHA — Learn · Inspire · Together · Achieve. A curated project discovery and showcase platform for creators, students, and innovators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
